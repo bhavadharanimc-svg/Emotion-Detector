@@ -1,7 +1,7 @@
 # 🧠 EmoSense — AI Emotion Detection from Text
 
 > Project #29 from the AI Mini-Projects list  
-> Built with: **React + Vite + Tailwind CSS v4 + Claude AI (Anthropic API)**
+> Built with: **React + Vite + Tailwind CSS v4**
 
 ---
 
