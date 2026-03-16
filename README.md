@@ -140,10 +140,9 @@ emotion-detector/
 ├── emotion_model.pkl                 # Trained model (generated)
 ├── emotion_classifier_results.png    # Evaluation charts (generated)
 └── src/
-├── App.jsx                       # Main UI + emotion detection logic
-├── main.jsx                      # React root
-└── index.css                     # Tailwind v4 + animations
-
+    ├── App.jsx                       # Main UI + emotion detection logic
+    ├── main.jsx                      # React root
+    └── index.css                     # Tailwind v4 + animations
 ---
 
 ## 🧪 Sample Inputs to Try
