@@ -143,6 +143,7 @@ emotion-detector/
 ├── App.jsx                       # Main UI + emotion detection logic
 ├── main.jsx                      # React root
 └── index.css                     # Tailwind v4 + animations
+
 ---
 
 ## 🧪 Sample Inputs to Try
