@@ -195,4 +195,4 @@ emotion-detector/
 ---
 
 *Built as part of AI Mini-Projects assignment · March 2026*
-*B.Tech Information Technology · KPR Institute of Engineering and Technology*
+
